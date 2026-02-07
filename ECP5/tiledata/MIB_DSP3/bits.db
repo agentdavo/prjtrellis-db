@@ -2,6 +2,10 @@
 
 # Non-Routing Configuration
 
+.config_enum PRADD9_1.SYMMETRY_MODE INTERNAL
+DIRECT F33B0
+INTERNAL -
+
 # Fixed Connections
 .fixed_conn E4_JCIN0_ALU54 JR0_ALU54
 

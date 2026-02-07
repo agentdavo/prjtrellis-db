@@ -110,6 +110,10 @@ CLK3 -
 NONE F56B0
 
 
+.config_enum PRADD9_4.SYMMETRY_MODE INTERNAL
+DIRECT F74B0
+INTERNAL -
+
 # Fixed Connections
 .fixed_conn E1_JMB0_ALU24 JP0_MULT9
 
